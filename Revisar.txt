@@ -1,0 +1,4 @@
+Agregar Log de usuarios.
+Revisar Dock y anchor para hacerlo responsive.
+Cambiar cuadro de ventanas Modificar/Agregar
+Hacer que las ventanas inicien dentro de la ventana principal
